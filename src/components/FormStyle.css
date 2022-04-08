@@ -1,0 +1,9 @@
+.labelStyle, .legendStyle{
+    color: #132c52;
+}
+.legendStyle{
+    font-size: 30px;
+}
+.labelStyle{
+    font-size: 24px;
+}
